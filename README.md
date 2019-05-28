@@ -1,5 +1,4 @@
 # OpenCVディレクトリ
 ## テスト  
-OpenCVをインストールできていれば動作するはず。　　
-python3 opencv_test.py
-
+OpenCVをインストールできていれば動作するはず。  
+`python3 opencv_test.py`
